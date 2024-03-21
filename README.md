@@ -1,6 +1,6 @@
 ## Hi there, I'm Abubakar 👋
 
-🌱 I’m currently learning Nextjs, React Native, AWS, Python , AI, ML<br><br>📫 How to reach me shaikhabubakar2380@gmail.com<br><br>⚡ I desire to Learn and master everything!
+🌱 I’m currently learning Nextjs, React Native, AWS, Python , AI, ML<br><br>📫 How to reach me shaikhabubakar2380@gmail.com<br><br>⚡ I desire to Learn and master everything!!!
 
 
 ## 🌐 Socials:
